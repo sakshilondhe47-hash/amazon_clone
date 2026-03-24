@@ -98,5 +98,5 @@ This project is for educational purposes only and does not intend to infringe on
 
 ## ⭐ Show Your Support
 
-If you like this proje
+If you like this project
 
