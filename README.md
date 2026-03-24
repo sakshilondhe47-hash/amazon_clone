@@ -25,15 +25,11 @@ A responsive **Amazon-inspired e-commerce frontend clone** built using HTML, CSS
 
 * HTML5
 * CSS3 (Flexbox & Grid)
-* JavaScript (Basic interactivity)
 
 ---
 
 ## 📷 Screenshots
-
-*Add screenshots of your project here*
-
----
+<img width="1910" height="988" alt="image" src="https://github.com/user-attachments/assets/8a07f8c8-cf53-4e2e-a145-a386ec0e1b23" />
 
 ## 📂 Project Structure
 
@@ -42,7 +38,6 @@ Amazon-Clone/
 │
 ├── index.html
 ├── style.css
-├── script.js
 ├── images/
 └── README.md
 ```
